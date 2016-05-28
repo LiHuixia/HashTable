@@ -1,6 +1,6 @@
-//#include"HashTable.h"
+#include"HashTable.h"
 //#include"HASH.h"
-#include"TashTabltBucket.h"
+//#include"TashTabltBucket.h"
 
 #include<iostream>
 using namespace std;
@@ -8,10 +8,10 @@ using namespace std;
 int main()
 {
 	//First::testHashTable();
-	//Second::testFun();
+	testFun();
 	//Test1();
 	//Test2();
-	Test();
+	//Test();
 	system("pause");
 	return 0;
 }
